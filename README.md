@@ -10,4 +10,4 @@ mvn clean package
 
 ## To run
 
-java -jar target\$JAR\_FILE $MOJO
+java -jar target\\\$JAR\_FILE $MOJO
